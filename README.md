@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25325581/README.md)
+
 # Spring Boot RESTful API — Practical Questions
 
 This repository contains my solutions for “Spring Boot RESTful API — Practical Questions” (Modules 1–3). Each question is implemented as its own Spring Boot project focused on REST controllers only, using Spring Web. I verified all endpoints via Postman, and I included testing screenshots under each module folder.
